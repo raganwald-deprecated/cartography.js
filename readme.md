@@ -1,7 +1,7 @@
 Cartography
 ===
 
-Cartography is a simple Javascript library for writing object mapping functions using hashes.
+Cartography is a simple Javascript library for writing object mapping functions using hashes. Cartography has been extracted from work produced by [Unspace Interactive][u]. All of the good bits, and its very existance, are due to Unspace. All of its bad bits are entirely the fault of [Reg Braithwaite][r].
 
 **dependencies**
 
@@ -35,3 +35,5 @@ Cartography has a hard dependency on [Underscore][_].
     THE SOFTWARE.
     
 [_]: https://github.com/documentcloud/underscore
+[u]: http://unspace.ca
+[r]: http://reginald.braythwayt.com
